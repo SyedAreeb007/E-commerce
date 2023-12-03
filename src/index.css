@@ -1,0 +1,57 @@
+.nvbr {
+    background-color: rgb(255, 255, 255);
+} 
+
+#navbarScrollingDropdown {
+    text-decoration: none;
+    color: white;
+}
+
+.title-section {
+    font-size: 3rem;
+    margin-top: 3rem;
+}
+
+.hero-section {
+    margin-top: 5rem;
+}
+
+.scrty {
+    margin-top: 5rem;
+    margin-left: 8rem;
+}
+
+.img {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+
+.project-section {
+    background-color: rgb(231, 217, 217);
+    margin-top: 4rem;
+}
+
+.bttn {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    margin-left: 10rem;
+}
+
+.bttn2 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.pict {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.pinpt {
+    margin-left: 8rem;
+}
+
+.lastbtn {
+    margin-left: 100%;
+}
